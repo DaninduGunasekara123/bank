@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e4f82ee9-938f-4440-89b4-d994ae8bad05" name="sampleHost" url="http://localhost">
+        <fileTransfer port="0" mountedRoot="C:\xampp\htdocs\Online Banking System" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
